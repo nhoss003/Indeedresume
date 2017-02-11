@@ -1,5 +1,8 @@
-There are two projects in this directory:
+There are two main projects in this directory:
 one is indeed/indeed.java and the other is resume/resume.java
+
+
+There are also wikinew.java and indeedplace.java which are for gainin information about companies i.e (type, industry, revenue , number of employee and locations) and obtaining latitude,longitude and address based on company name, city and state by using Google places API.
 
 
 The program takes one argument i.e. (one , two, three, four, five or six).
