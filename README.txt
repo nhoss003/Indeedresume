@@ -1,5 +1,5 @@
 There are two projects in this directory:
-one is indeed/indeed.java and the other is resume/r.java
+one is indeed/indeed.java and the other is resume/resume.java
 
 
 The program takes one argument i.e. (one , two, three, four, five or six).
@@ -7,7 +7,7 @@ The program takes one argument i.e. (one , two, three, four, five or six).
 Objective:
   indeed.java: Collecting information about number of Jobs, Type of Jobs, pay of the jobs and the companies that provide the jobs in that city.
   
-r.java:  Collecting information about number of job seeker, their level of education and experience and number of jobs and companies in each city.
+resume.java:  Collecting information about number of job seeker, their level of education and experience and number of jobs and companies in each city.
 
 Dependencies:
 The files utilize functionalities from following external libraries:
@@ -18,7 +18,7 @@ The files utilize functionalities from following external libraries:
 
 
  
-In indeed.java and r.java , the argument is one of the following:
+In indeed.java and resume.java , the argument is one of the following:
 one, two, three, four, five, six
 
 when you enter one, 10 states will be crawlled sequentially. You can open a "screen" and run the program with another argument to have programs running in paralle to spped up the crawling speed.
