@@ -204,8 +204,8 @@ public class resume {
 		}
 		else{
 			// To crawl a single state
-			System.out.println(str1);
-			crawlIndeedResume(str1);
+			System.out.println(n);
+			crawlIndeedResume(n);
 		}
 }
 	
